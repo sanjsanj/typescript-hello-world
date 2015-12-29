@@ -1,0 +1,6 @@
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\TypeScriptHelloWorld\TypeScriptHelloWorld\bin\TypeScriptHelloWorld.dll.config
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\TypeScriptHelloWorld\TypeScriptHelloWorld\bin\TypeScriptHelloWorld.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\TypeScriptHelloWorld\TypeScriptHelloWorld\bin\TypeScriptHelloWorld.pdb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\TypeScriptHelloWorld\TypeScriptHelloWorld\obj\Debug\TypeScriptHelloWorld.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\TypeScriptHelloWorld\TypeScriptHelloWorld\obj\Debug\TypeScriptHelloWorld.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\TypeScriptHelloWorld\TypeScriptHelloWorld\obj\Debug\TypeScriptHelloWorld.pdb
