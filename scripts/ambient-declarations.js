@@ -7,5 +7,7 @@ var demo_ambient_declarations;
         id: id,
         fullName: name
     };
+    var value = guy.fullName();
+    console.log(value);
 })(demo_ambient_declarations || (demo_ambient_declarations = {}));
 //# sourceMappingURL=ambient-declarations.js.map
