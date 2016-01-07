@@ -22,7 +22,7 @@ var demo_primitives;
     }
     var names = ['Bob', 'Tom'];
     var firstPerson = names[0];
-    console.log(getArrayLength(names));
+    console.log('array length = ' + getArrayLength(names));
     //null
     var guitarSales = null;
     var animal = null;

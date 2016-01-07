@@ -24,7 +24,7 @@
     }
     var names: string[] = ['Bob', 'Tom'];
     var firstPerson: string = names[0];
-    console.log(getArrayLength(names));
+    console.log('array length = ' + getArrayLength(names));
 
     //null
     var guitarSales: any = null;
